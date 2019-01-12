@@ -1,4 +1,4 @@
-##### 代码运行前请阅读以下内容
+# 代码运行前请阅读以下内容
 1. 建议用python3.5及以上的环境，另外模型可视化需要安装pydot-ng, graphviz, pydog包, 本地还需要安装Grahviz并将它的bin目录添加到系统环境变量中 (*这一步我暂时还没解决，即使参考了别人分享的[解决办法](https://blog.csdn.net/u011311291/article/details/80298563)，可以暂时跳过*）。  
 [https://graphviz.gitlab.io/download/ ](https://graphviz.gitlab.io/download/)
 
