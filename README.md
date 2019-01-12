@@ -8,7 +8,8 @@
 
 4. 代码中的*_batch_size （如copy_batch_size）变量都可以根据硬件变化调整。  
 
-5. Kaggle上下载数据集并在data目录下逐层解压 (*Jupyter Notebook中不知道为什么解压超级慢，本地用PyCharm跑代码解压很快的，所以这一步建议在本地用winrar之类的解压，代码中已注释掉*) [https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data)  
+5. Kaggle上下载数据集并在data目录下逐层解压 (*Jupyter Notebook中不知道为什么解压超级慢，本地用PyCharm跑代码解压很快的，所以这一步建议在本地用winrar之类的解压，代码中已注释掉*)  
+[https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data)  
   
   
 **解压**之后的**目录结构**如下：  
